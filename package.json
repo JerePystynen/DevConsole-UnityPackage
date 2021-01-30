@@ -1,0 +1,20 @@
+{
+  "name": "com.exodiastudio.developerconsole",
+  "version": "1.0.0",
+  "displayName": "Developer Console",
+  "description": "This is the console used in all of Exodia's games.\nIt has option to resize and toggle its visibility.",
+  "keywords": [
+    "dev",
+    "console"
+  ],
+  "author": {
+    "name": "Exodia Studio",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "tool",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.unity.textmeshpro": "3.0.1"
+  }
+}
